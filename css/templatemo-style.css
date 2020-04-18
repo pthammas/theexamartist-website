@@ -666,7 +666,7 @@ textarea.form-control {
 .tm-section-margin-bottom-big {	margin-bottom: 15%; }
 
 div.gallery {
-  margin: 5px;
+  margin: auto;
   border: 1px solid #ccc;
   float: left;
   width: 170px;
