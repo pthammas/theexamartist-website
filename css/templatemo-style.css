@@ -428,6 +428,8 @@ a:focus,
 
 @media (max-width: 991px) {
     .tm-section-contact-form { background-position: center 450px; }
+    
+    .submit-btn{ width: 100%; }
 }
 
 @media (max-width: 790px) {
@@ -712,3 +714,19 @@ div.desc {
     background-color: rgba(235, 222, 180, 1.0);
 }
 
+.carousel-indicators li {
+    width: 25px;
+    height: 25px;
+    background-color: #404040;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+.carousel-indicators{
+    margin: 0;
+    bottom: -55px;
+}
+
+.gallery{
+    cursor: pointer;
+}
